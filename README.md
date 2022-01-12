@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Kumar</h1>
-<h3 align="center">Rebooting ideas, debugging thoughts to find the true meaning of Salvation </h3>
+<h3 align="center">A rookie, who loves to explore. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
