@@ -6,20 +6,19 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranjal-barnwal&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-```dart
-// tools_I_use organized
-class Pranjal extends Human implements Dev { 
-  const myTools = {  
-    "ProgramingLanguages" : { "C", "C++", "Java", "Javascript", "Python" },
-    "OtherLanguages" : { "HTML", "CSS", "SASS", "Json", "Markdown" },
-    "Database" : { "SQL", "MongoDB", "FireBase" },
-    "Editors" : { "VsCode", "Sublime", "Vim" },
-    "Platforms" : { "Windows", "Linux Distros" },
-    "OtherTools" : { "Git", "Canva", "Filmora" }
-  };
-}
-
-```
+//```dart
+//// tools_I_use organized
+//class Pranjal extends Human implements Dev { 
+//  const myTools = {  
+//    "ProgramingLanguages" : { "C", "C++", "Java", "Javascript", "Python" },
+//    "OtherLanguages" : { "HTML", "CSS", "SASS", "Json", "Markdown" },
+//    "Database" : { "SQL", "MongoDB", "FireBase" },
+//    "Editors" : { "VsCode", "Sublime", "Vim" },
+//    "Platforms" : { "Windows", "Linux Distros" },
+//    "OtherTools" : { "Git", "Canva", "Filmora" }
+//  };
+//}
+//```
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjal-barnwal&bg_color=000000&color=40ebd1&line=40ebd1&point=40ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
