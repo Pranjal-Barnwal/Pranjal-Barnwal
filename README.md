@@ -10,4 +10,4 @@
 
 <hr>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranjal-barnwal&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranjal-barnwal&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
