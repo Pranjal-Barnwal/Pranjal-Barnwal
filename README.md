@@ -8,7 +8,7 @@
 
 ```dart
 // tools_I_use organized
-class About extends Me { 
+class Pranjal extends Human implements Dev { 
   const myTools = {  
     "ProgramingLanguages" : { "C", "C++", "Java", "Javascript", "Python" },
     "OtherLanguages" : { "HTML", "CSS", "SASS", "Json", "Markdown" },
@@ -18,6 +18,7 @@ class About extends Me {
     "OtherTools" : { "Git", "Canva", "Filmora" }
   };
 }
+
 ```
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjal-barnwal&bg_color=000000&color=40ebd1&line=40ebd1&point=40ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
