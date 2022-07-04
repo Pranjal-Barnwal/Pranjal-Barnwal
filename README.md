@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranjal Kumar</h1>
 <h3 align="center">Wireframing ideas, deploying learnings, debugging thoughts to find the true meaning of Salvation.</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=I'm+Web+Developer;I'm+Competitive+Programmer;I'm+Tech+Enthusiast;I'm+Open+Source+Developer;I'm+Video+Editor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EBD1&center=true&lines=I'm+Developer;I'm+Competitive+Programmer;I'm+Tech+Enthusiast;I'm+Open+Source+Developer;I'm+Finance+Geek)](https://git.io/typing-svg)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
