@@ -1,5 +1,8 @@
+<img src="./res/banner.jpeg">
+<br>
 <h1 align="center">Hi, I'm Pranjal Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <h3 align="center">Wireframing ideas, deploying learnings, debugging thoughts to find the true meaning of Salvation.</h3>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EBD1&center=true&lines=I'm+Web+Developer;I'm+Competitive+Programmer;I'm+Tech+Enthusiast;I'm+Open+Source+Developer;I'm+Finance+Geek)](https://git.io/typing-svg)
 
@@ -8,7 +11,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjal-barnwal&bg_color=000000&color=40ebd1&line=40ebd1&point=40ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pranjal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjal-barnwal&bg_color=000000&color=40ebd1&line=40ebd1&point=40ffff&area=true&hide_border=true)](https://github.com/pranjal-barnwal/github-readme-activity-graph)
 
 <hr>
 
