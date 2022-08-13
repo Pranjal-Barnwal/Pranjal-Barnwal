@@ -4,14 +4,14 @@
 <h3 align="center">Wireframing ideas, deploying learnings, debugging thoughts to find the true meaning of Salvation.</h3>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EBD1&center=true&lines=I'm+Web+Developer;I'm+Competitive+Programmer;I'm+Tech+Enthusiast;I'm+Open+Source+Developer;I'm+Finance+Geek)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EBD1&center=true&lines=Web+Developer;Competitive+Programmer;Tech+Enthusiast;Open+Source+Developer;Finance+Geek;Machine-Learning+Enthusiast)](https://git.io/typing-svg)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranjal-barnwal&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 
 
-[![Pranjal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjal-barnwal&bg_color=000000&color=40ebd1&line=40ebd1&point=40ffff&area=true&hide_border=true)](https://github.com/pranjal-barnwal/github-readme-activity-graph)
+[![Pranjal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjal-barnwal&bg_color=000000&color=888888&line=40ebd1&point=ff4545&area=true&hide_border=true)](https://github.com/pranjal-barnwal/github-readme-activity-graph)
 
 <hr>
 
