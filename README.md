@@ -4,7 +4,7 @@
 <h3 align="center">Wireframing ideas, deploying learnings, debugging thoughts to find the true meaning of Salvation.</h3>
 
 <!-- <div align="center"> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebff90&center=true&lines=Web+Developer;Competitive+Programmer;Tech+Enthusiast;Open+Source+Developer;Finance+Geek;Machine-Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8ccf72&center=true&lines=Web+Developer;Competitive+Programmer;Tech+Enthusiast;Open+Source+Developer;Finance+Geek;Machine-Learning+Enthusiast)](https://git.io/typing-svg)
 <!-- </div> -->
 
 <!-- <div align="center"> -->
@@ -12,7 +12,7 @@
 <!-- </div> -->
 
 
-[![Pranjal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjal-barnwal&bg_color=000000&color=888888&line=ebff90&point=ff5d31&area=true&hide_border=true)](https://github.com/pranjal-barnwal/github-readme-activity-graph)
+[![Pranjal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjal-barnwal&bg_color=000000&color=888888&line=8ccf72&point=ff5d31&area=true&hide_border=true)](https://github.com/pranjal-barnwal/github-readme-activity-graph)
 
 <hr>
 
