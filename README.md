@@ -11,7 +11,7 @@
 
 
 
-[![Pranjal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjal-barnwal&bg_color=000000&color=888888&line=40ebd1&point=ebff90&area=true&hide_border=true)](https://github.com/pranjal-barnwal/github-readme-activity-graph)
+[![Pranjal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjal-barnwal&bg_color=000000&color=888888&line=ebff90&point=fea7ff&area=true&hide_border=true)](https://github.com/pranjal-barnwal/github-readme-activity-graph)
 
 <hr>
 
