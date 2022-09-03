@@ -1,15 +1,15 @@
+<div align="center">
 <img src="./res/banner.jpeg">
 <br>
-<h1 align="center">Hi, I'm Pranjal Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1>Hi, I'm Pranjal Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <h3 align="center">Wireframing ideas, deploying learnings, debugging thoughts to find the true meaning of Salvation.</h3>
 
-<!-- <div align="center"> -->
+<!-- Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8ccf72&center=true&lines=Web+Developer;Competitive+Programmer;Tech+Enthusiast;Open+Source+Developer;Finance+Geek;Machine-Learning+Enthusiast)](https://git.io/typing-svg)
-<!-- </div> -->
 
-<!-- <div align="center"> -->
+
+<!-- Stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranjal-barnwal&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-<!-- </div> -->
 
 
 [![Pranjal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjal-barnwal&bg_color=000000&color=888888&line=8ccf72&point=ff5d31&area=true&hide_border=true)](https://github.com/pranjal-barnwal/github-readme-activity-graph)
@@ -23,4 +23,10 @@
 <a href="https://instagram.com/pranjal_barnwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranjal_barnwal_" height="30" width="40" /></a>
 </p>
 
+<br>
+<hr>
 
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pranjal-barnwal" alt="pranjal-barnwal" /> </p>
+
+</div>
