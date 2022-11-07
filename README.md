@@ -9,14 +9,12 @@
 
 
 <!-- Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranjal-barnwal&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
-
-[![Pranjal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjal-barnwal&bg_color=000000&color=888888&line=8ccf72&point=ff5d31&area=true&hide_border=true)](https://github.com/pranjal-barnwal/github-readme-activity-graph)
+<a href="http://www.github.com/pranjal-barnwal"><img src="https://github-readme-stats.vercel.app/api?username=pranjal-barnwal&show_icons=true&hide=&count_private=true&title_color=8ccf72&text_color=ffffff&icon_color=8cd073&bg_color=000000&hide_border=true&show_icons=true" alt="pranjal-barnwal's GitHub stats" /></a>
+<a href="http://www.github.com/pranjal-barnwal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal-barnwal&stroke=ffffff&background=000000&ring=8ccf72&fire=fa8b00&currStreakNum=ffffff&currStreakLabel=8cd073&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <hr>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
 <p align="center">
 <a href="https://twitter.com/pranjalbarnwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranjalbarnwal_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranjal-kumar-ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal-kumar-ac" height="30" width="40" /></a>
@@ -25,6 +23,8 @@
 
 <br>
 <hr>
+
+![Snake animation](https://github.com/pranjal-barnwal/pranjal-barnwal/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pranjal-barnwal" alt="pranjal-barnwal" /> </p>
