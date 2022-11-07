@@ -17,7 +17,7 @@
 <h3 align="center">Connect with me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
 <p align="center">
 <a href="https://twitter.com/pranjalbarnwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranjalbarnwal_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pranjal-kumar-ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal-kumar-ac" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranjal-barnwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal-barnwal" height="30" width="40" /></a>
 <a href="https://instagram.com/pranjal_barnwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranjal_barnwal_" height="30" width="40" /></a>
 </p>
 
