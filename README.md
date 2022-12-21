@@ -14,14 +14,16 @@
 
 <hr>
 
-<h3 align="center">Connect with me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
+<h2 align="center">Connect with me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
-<a href="https://twitter.com/pranjalbarnwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranjalbarnwal_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pranjal-barnwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal-barnwal" height="30" width="40" /></a>
-<a href="https://instagram.com/pranjal_barnwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranjal_barnwal_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranjal-barnwal"><img src="https://img.shields.io/badge/-Pranjal_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-barnwal/" /></a>
+<a href="mailto:itselfpranjalkr@gmail.com"><img src="https://img.shields.io/badge/-itselfpranjalkr@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itselfpranjalkr@gmail.com" /></a>
+<a href="https://twitter.com/pranjalBarnwal_"><img src="https://img.shields.io/badge/-pranjalBarnwal_-219df3?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pranjalBarnwal_" /></a>
+<a href="https://www.figma.com/@pranjal_barnwal"><img src="https://img.shields.io/badge/-pranjal_barnwal_-09c47c?style=flat-square&logo=figma&logoColor=white&link=https://www.figma.com/@pranjal_barnwal" /></a>
+<a href="https://instagram.com/pranjal_barnwal_"><img src="https://img.shields.io/badge/-pranjal_barnwal_-f77880?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranjal_barnwal_" /></a>
 </p>
-
 <br>
+
 <hr>
 
 ![Snake animation](https://github.com/pranjal-barnwal/pranjal-barnwal/blob/output/github-contribution-grid-snake.svg)
