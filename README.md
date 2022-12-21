@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./res/banner.jpeg">
+<img src="https://media.licdn.com/dms/image/C4D16AQEAKJtxNCVhAw/profile-displaybackgroundimage-shrink_350_1400/0/1662183224149?e=1677110400&v=beta&t=Y5E7FOmkL5S6k8_2t2DP-0I6X76cHOZvBhRMGSAvzaI" alt="Pranjal Kumar">
 <br>
 <h1>Hi, I'm Pranjal Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <h3 align="center">Wireframing ideas, deploying learnings, debugging thoughts to find the true meaning of Salvation.</h3>
