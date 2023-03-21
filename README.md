@@ -29,6 +29,10 @@
 ![Snake animation](https://github.com/pranjal-barnwal/pranjal-barnwal/blob/output/github-contribution-grid-snake.svg)
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pranjal-barnwal" alt="pranjal-barnwal" /> </p>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=pranjal-barnwal" alt="pranjal-barnwal" /> 
+<img src="./res/dancing-kitty-kwaii.gif" width="90">
+</p>
+
 
 </div>
