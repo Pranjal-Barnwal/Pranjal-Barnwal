@@ -1,8 +1,9 @@
 <div align="center">
 <img src="./res/banner.jpeg" alt="Pranjal Kumar">
 <br>
-<h1>Hi, I'm Pranjal Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-<p align="center">I am 3rd-year undergrad at CGU Odisha pursuing my B.Tech in Computer Science & Engineering. I am an aspiring Developer. I am currently looking for internship opportunities in SDE role. I love Problem Solving and I have solved more than 500+ problems on various coding platforms.</p>
+<h1>Hi, I'm Pranjal Kumar  
+<img src="./res/dancing-kitty-kwaii.gif" width="70"></h1>
+<h3 align="center">I am 3rd-year undergrad at CGU Odisha pursuing my B.Tech in Computer Science & Engineering. I am an aspiring Developer. I am currently looking for internship opportunities in SDE role. I love Problem Solving and I have solved more than 500+ problems on various coding platforms.</h3>
 
 <!-- Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8ccf72&center=true&lines=Web+Developer;Competitive+Programmer;Tech+Enthusiast;Open+Source+Developer;Finance+Geek;Machine-Learning+Enthusiast)](https://git.io/typing-svg)
@@ -30,8 +31,7 @@
 
 <br>
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=pranjal-barnwal" alt="pranjal-barnwal" /> 
-<img src="./res/dancing-kitty-kwaii.gif" width="90">
+
 </p>
 
 
