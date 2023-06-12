@@ -21,7 +21,7 @@
 <a href="mailto:itselfpranjalkr@gmail.com"><img src="https://img.shields.io/badge/-itselfpranjalkr@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itselfpranjalkr@gmail.com" /></a>
 <!-- <a href="https://twitter.com/pranjalBarnwal_"><img src="https://img.shields.io/badge/-pranjalBarnwal_-219df3?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pranjalBarnwal_" /></a> -->
 <a href="https://www.figma.com/@pranjal_barnwal"><img src="https://img.shields.io/badge/-pranjal_barnwal_-09c47c?style=flat-square&logo=figma&logoColor=white&link=https://www.figma.com/@pranjal_barnwal" /></a>
-<a href="https://instagram.com/pranjal_barnwal_"><img src="https://img.shields.io/badge/-pranjal_barnwal_-f77880?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranjal_barnwal_" /></a>
+<a href="https://instagram.com/pranjal__barnwal"><img src="https://img.shields.io/badge/-pranjal_barnwal_-f77880?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranjal_barnwal_" /></a>
 </p>
 <br>
 
