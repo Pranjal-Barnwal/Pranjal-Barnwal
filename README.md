@@ -6,7 +6,7 @@
 <h3 align="center">I am 3rd-year undergrad at CGU Odisha pursuing my B.Tech in Computer Science & Engineering. I am an aspiring Developer. I am currently looking for internship opportunities in SDE role. I love Problem Solving and I have solved more than 500+ problems on various coding platforms.</h3>
 
 <!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8ccf72&center=true&lines=Web+Developer;Competitive+Programmer;Tech+Enthusiast;Open+Source+Developer;Finance+Geek;Machine-Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8ccf72&center=true&lines=App+Developer;Web+Developer;Competitive+Programmer;Tech+Enthusiast;Open+Source+Developer;Finance+Geek;Machine-Learning+Enthusiast)](https://git.io/typing-svg)
 
 
 <!-- Stats -->
