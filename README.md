@@ -1,8 +1,8 @@
 <div align="center">
-<img src="./res/banner.jpeg" alt="Pranjal Kumar">
+<img src="https://user-images.githubusercontent.com/71400605/245144196-befec424-85b2-4656-b14c-406247088fc0.png" alt="Pranjal Kumar">
 <br>
 <h1>Hi, I'm Pranjal Kumar  
-<img src="./res/dancing-kitty-kwaii.gif" width="70"></h1>
+<img src="https://github.com/pranjal-barnwal/pranjal-barnwal/blob/383cfc1c426f6d2a4d7503317e2662080fc2af2c/res/dancing-kitty-kwaii.gif" width="70"></h1>
 <h3 align="center">I am 3rd-year undergrad at CGU Odisha pursuing my B.Tech in Computer Science & Engineering. I am an aspiring Developer. I am currently looking for internship opportunities in SDE role. I love Problem Solving and I have solved more than 500+ problems on various coding platforms.</h3>
 
 <!-- Typing Effect -->
@@ -27,7 +27,7 @@
 
 <hr>
 
-![Snake animation](https://github.com/pranjal-barnwal/pranjal-barnwal/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/pranjal-barnwal/pranjal-barnwal/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 
 <br>
 <p align="center"> 
