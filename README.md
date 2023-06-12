@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://private-user-images.githubusercontent.com/71400605/245148434-2f571536-54a3-49b5-89e9-1292a4135186.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg2NTc0Mzk3LCJuYmYiOjE2ODY1NzQwOTcsInBhdGgiOiIvNzE0MDA2MDUvMjQ1MTQ4NDM0LTJmNTcxNTM2LTU0YTMtNDliNS04OWU5LTEyOTJhNDEzNTE4Ni5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMDYxMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzA2MTJUMTI0ODE3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZjhlMzEwNDdlZjBiODRmNzUwYWQyZjljNWJjMDJmNDVjMGY4ZWU0NzU5M2EwODVjOGY2NzIxMTRlNmMzZWU3MyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.V_uzSqlAWOZZbUlskTWQ80gQvxZAUgyr1RlFUB_ED7Q" alt="Pranjal Kumar">
+<img src="https://github.com/askmoneymatters/.github/assets/71400605/51ec8358-41f3-4a07-929f-52f3057c2c58" alt="Pranjal Kumar">
 <br>
 <h1>Hi, I'm Pranjal Kumar  
-<img src="https://private-user-images.githubusercontent.com/71400605/245148454-f60d1f3c-79d1-4bce-a200-834ceb650a67.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg2NTc0Mzk3LCJuYmYiOjE2ODY1NzQwOTcsInBhdGgiOiIvNzE0MDA2MDUvMjQ1MTQ4NDU0LWY2MGQxZjNjLTc5ZDEtNGJjZS1hMjAwLTgzNGNlYjY1MGE2Ny5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMwNjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMDYxMlQxMjQ4MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZGIzZWQwMjQ5YmJkYjEyOTE2NmVjZTM3MzA2N2YwZDFhMTNhOWU3ZWNkN2I0NTk0NTRkMDk2ZmRhNjc2ZGU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.gILqLi6GHr9qn0VoWAoq0mWwUvQNrWMQu1kXqvac0AI" width="70"></h1>
+<img src="https://github.com/askmoneymatters/.github/assets/71400605/718289e6-b71e-4c01-8fb0-66a5242029ff" width="70"></h1>
 <h3 align="center">I am 3rd-year undergrad at CGU Odisha pursuing my B.Tech in Computer Science & Engineering. I am an aspiring Developer. I am currently looking for internship opportunities in SDE role. I love Problem Solving and I have solved more than 500+ problems on various coding platforms.</h3>
 
 <!-- Typing Effect -->
