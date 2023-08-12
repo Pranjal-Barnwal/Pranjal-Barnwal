@@ -3,7 +3,7 @@
 <br>
 <h1>Hi, I'm Pranjal Kumar  
 <img src="https://github.com/askmoneymatters/.github/assets/71400605/718289e6-b71e-4c01-8fb0-66a5242029ff" width="70"></h1>
-<h3 align="center">Introducing the Tech Alchemist: Unleashing the Magic of Bits and Bytes! Learn from my journey in Computing</h3>
+<h3 align="center">Introducing the Tech Alchemist: Unleashing the Magic of Bits and Bytes!</h3>
 
 <!-- Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8ccf72&center=true&lines=App+Developer;Web+Developer;Competitive+Programmer;Tech+Enthusiast;Open+Source+Developer;Finance+Geek;Machine-Learning+Enthusiast)](https://shareit.pics/0Y6XCT)
