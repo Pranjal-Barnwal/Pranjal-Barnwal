@@ -6,7 +6,7 @@
 <h3 align="center">Introducing the Tech Alchemist: Unleashing the Magic of Bits and Bytes! Learn from my journey in Computing</h3>
 
 <!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8ccf72&center=true&lines=App+Developer;Web+Developer;Competitive+Programmer;Tech+Enthusiast;Open+Source+Developer;Finance+Geek;Machine-Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8ccf72&center=true&lines=App+Developer;Web+Developer;Competitive+Programmer;Tech+Enthusiast;Open+Source+Developer;Finance+Geek;Machine-Learning+Enthusiast)](https://shareit.pics/0Y6XCT)
 
 
 <!-- Stats -->
@@ -21,7 +21,7 @@
 <a href="mailto:itselfpranjalkr@gmail.com"><img src="https://img.shields.io/badge/-itselfpranjalkr@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itselfpranjalkr@gmail.com" /></a>
 <!-- <a href="https://twitter.com/pranjalBarnwal_"><img src="https://img.shields.io/badge/-pranjalBarnwal_-219df3?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pranjalBarnwal_" /></a> -->
 <a href="https://www.figma.com/@pranjal_barnwal"><img src="https://img.shields.io/badge/-pranjal_barnwal_-09c47c?style=flat-square&logo=figma&logoColor=white&link=https://www.figma.com/@pranjal_barnwal" /></a>
-<a href="https://instagram.com/pranjal__barnwal"><img src="https://img.shields.io/badge/-pranjal_barnwal_-f77880?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranjal_barnwal_" /></a>
+<a href="https://instagram.com/pranjal__barnwal"><img src="https://img.shields.io/badge/-pranjal__barnwal_-fd7880?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranjal__barnwal" /></a>
 </p>
 <br>
 
