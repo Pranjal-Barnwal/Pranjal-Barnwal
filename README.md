@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/askmoneymatters/.github/assets/71400605/51ec8358-41f3-4a07-929f-52f3057c2c58" alt="Pranjal Kumar">
+<img src="https://github.com/pranjal-barnwal/pranjal-barnwal/assets/71400605/3cb380d0-43a3-44c1-8476-7789d4f07194" alt="Pranjal Kumar">
 <br>
 <h1>Hi, I'm Pranjal Kumar  
 <img src="https://github.com/askmoneymatters/.github/assets/71400605/718289e6-b71e-4c01-8fb0-66a5242029ff" width="70"></h1>
