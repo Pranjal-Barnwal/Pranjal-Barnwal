@@ -29,10 +29,8 @@
 
 <img src="https://github.com/pranjal-barnwal/pranjal-barnwal/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 
-<br>
-<p align="center"> 
+<hr/>
 
-</p>
-
-
+[![](https://visitcount.itsvg.in/api?id=pranjal-barnwal&label=Profile%20Views&color=3&icon=5&pretty=true)](https://github.com/pranjal-barnwal)
 </div>
+
