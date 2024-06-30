@@ -23,7 +23,15 @@
 <a href="https://www.figma.com/@pranjal_barnwal"><img src="https://img.shields.io/badge/-pranjal__barnwal_-09c47c?style=flat-square&logo=figma&logoColor=white&link=https://www.figma.com/@pranjal_barnwal" /></a>
 <a href="https://instagram.com/pranjal____barnwal"><img src="https://img.shields.io/badge/-pranjal__barnwal_-fd7880?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranjal__barnwal" /></a>
 </p>
-<br>
+<be>
+
+
+<h2 align="center">Try in Terminal:</h2>
+
+```bash
+npx pranjal-kumar
+```
+
 
 <hr>
 
