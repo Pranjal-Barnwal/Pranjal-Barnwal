@@ -6,7 +6,7 @@
 <p align="center"><b>Introducing the Tech Alchemist:</b> Unleashing the Magic of Bits and Bytes!</p>
 
 <!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8ccf72&center=true&lines=App+Developer;Web+Developer;Competitive+Programmer;Tech+Alchemist;Open+Source+Developer;Finance+Geek;Machine-Learning+Enthusiast)](https://shareit.pics/0Y6XCT)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8ccf72&center=true&lines=App+Developer;Full+Stack+Developer;Competitive+Programmer;DevOps+Enthusiast;Open+Source+Developer;Cloud+Computing;Follow+@pranjal-barnwal)](https://shareit.pics/0Y6XCT)
 
 
 <!-- Stats -->
@@ -18,10 +18,8 @@
 <h2 align="center">Connect with me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/pranjal-barnwal"><img src="https://img.shields.io/badge/-Pranjal_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-barnwal/" /></a>
-<a href="mailto:pranjalbarn@gmail.com"><img src="https://img.shields.io/badge/-pranjalbarn@gmail.com-eb493b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itselfpranjalkr@gmail.com" /></a>
-<a href="https://twitter.com/pranjalBarnwal_"><img src="https://img.shields.io/badge/-pranjalBarnwal__-219df3?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pranjalBarnwal_" /></a>
-<a href="https://www.figma.com/@pranjal_barnwal"><img src="https://img.shields.io/badge/-pranjal__barnwal_-09c47c?style=flat-square&logo=figma&logoColor=white&link=https://www.figma.com/@pranjal_barnwal" /></a>
-<a href="https://instagram.com/pranjal____barnwal"><img src="https://img.shields.io/badge/-pranjal__barnwal_-fd7880?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranjal__barnwal" /></a>
+<a href="mailto:mail@pranjalkumar.in"><img src="https://img.shields.io/badge/-pranjalbarn@gmail.com-eb493b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@pranjalkumar.in" /></a>
+<a href="https://www.figma.com/@pranjal_barnwal"><img src="https://img.shields.io/badge/-pranjal__barnwal_-09c47c?style=flat-square&logo=figma&logoColor=white&link=https://www.figma.com/@pranjal_barnwal" /></a><a href="https://instagram.com/pranjal__barnwal"><img src="https://img.shields.io/badge/-pranjal____barnwal_-fd7880?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranjal__barnwal" /></a>
 </p>
 <be>
 
